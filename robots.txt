@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://isbest.github.io/sitemap.xml
