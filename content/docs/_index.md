@@ -1,6 +1,6 @@
 +++
 title = "Docs"
-description = "Documentation for the Deep Thought theme."
+description = "Some of my study notes and reflections."
 sort_by = "date"
 paginate_by = 5
 +++
